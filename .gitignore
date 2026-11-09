@@ -1,0 +1,9 @@
+# Photos, scans and notes from a live run stay out of git until you choose
+# to publish a redacted copy. See evidence/README.md.
+evidence/*
+!evidence/README.md
+
+.DS_Store
+Thumbs.db
+*.tmp
+~$*
